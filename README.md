@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Juan Jesús López Solano! 👋</h1>
+<h1 align="center">¡Hola, soy Juan Jesús Capitán Moreno! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
@@ -35,20 +35,20 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaShIsTyLee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcapitanmoreno&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaShIsTyLee&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcapitanmoreno&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaShIsTyLee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcapitanmoreno&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ## 🌎 Encuéntrame en:
-🔗 [LinkedIn](https://www.linkedin.com/in/juan-j%C3%A9sus-l%C3%B3pez-solano-5b0133232/)  
-📧 [Correo Electrónico](mailto:lopezsolanojuanjesus@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/juan-jes%C3%BAs-capit%C3%A1n-moreno-4409ab114/)  
+📧 [Correo Electrónico](mailto:jcapitanmoreno@gmail.com)  
 
  
 ![snake_gif](https://github.com/jcapitanmoreno/jcapitanmoreno/blob/output/github-snake-dark.svg)
